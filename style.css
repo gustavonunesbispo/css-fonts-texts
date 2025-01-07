@@ -1,0 +1,17 @@
+/* font-family */
+
+/* Títulos */
+
+h1 {
+    /* genéricos */
+    /* font-family: monospace; */
+    font-family: monospace;
+}
+
+/* Paragráfos */
+
+p {
+    /* nome da família + genéricos */
+    /* fallback */
+    font-family: Arial, Helvetica, sans-serif;
+}
